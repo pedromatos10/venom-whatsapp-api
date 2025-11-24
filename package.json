@@ -1,0 +1,13 @@
+{
+  "name": "venom-whatsapp-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "venom-bot": "^5.0.0",
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5"
+  }
+}
